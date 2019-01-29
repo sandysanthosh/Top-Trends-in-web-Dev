@@ -76,6 +76,10 @@ AWS LAMDA
 
 ->AI/Bots
 Still odd to implement
+Predict the what we want
+Solve the problem
+Large data to upload  remove chunk
+
 Eg:
 Image Recognition
 
